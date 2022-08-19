@@ -1,0 +1,383 @@
+﻿Rank_Nov,Rank_Oct,DBMS,Score_Nov,Score_Oct
+2021,2021,,2021,2021
+1,1,Oracle ,1272.73,2.38
+2,2,MySQL ,1211.52,-8.25
+3,3,Microsoft SQL Server ,954.29,-16.32
+4,4,PostgreSQL  ,597.27,10.3
+5,5,MongoDB ,487.35,-6.21
+6,6,Redis ,171.5,0.15
+7,7,IBM Db2,167.52,1.56
+8,8,Elasticsearch,159.09,0.84
+9,9,SQLite ,129.8,0.43
+10,10,Cassandra ,120.88,1.61
+11,11,Microsoft Access,119.24,2.86
+12,12,MariaDB ,102.19,-0.41
+13,13,Splunk,92.31,1.69
+14,14,Hive ,83.31,-1.43
+15,15,Microsoft Azure SQL Database,81.32,1.6
+16,16,Amazon DynamoDB ,76.99,0.43
+17,17,Teradata ,69.59,-0.24
+18,18,Snowflake ,64.19,5.93
+19,19,Neo4j ,57.98,0.11
+20,20,SAP HANA ,55.53,0.26
+21,21,FileMaker,54.22,1.38
+22,22,Solr,53.85,2.69
+23,23,SAP Adaptive Server,50.93,2.34
+24, 25.,Google BigQuery ,45.01,1.22
+25, 24.,HBase  ,45.01,-0.19
+26,26,Microsoft Azure Cosmos DB ,40.82,0.54
+27,27,PostGIS,31.91,0.28
+28, 29.,Couchbase ,29.87,1.96
+29, 28.,InfluxDB ,28.54,0.03
+30,30,Firebird,26.9,0.87
+31,31,Memcached,26.37,0.35
+32,32,Amazon Redshift ,24.86,0.6
+33, 34.,Spark SQL ,23.33,0.39
+34, 33.,Informix,23.23,0.12
+35,35,Vertica ,20.33,0.02
+36, 37.,Firebase Realtime Database,20.06,1.04
+37, 36.,Netezza,19.79,0.17
+38,38,Impala,18.93,0.25
+39,39,Microsoft Azure Synapse Analytics,17.9,0.62
+40,40,CouchDB,16.8,1.01
+41,41,dBASE,14.77,0.57
+42,42,Greenplum,13.76,0.69
+43,43,Presto,13.47,0.73
+44,44,Amazon Aurora,12.1,0.41
+45,45,ClickHouse,11.39,0.71
+46,46,etcd,10.81,0.62
+47, 48.,Hazelcast ,10,0.34
+48, 47.,H2,9.92,0.2
+49, 51.,Datastax Enterprise ,9.7,0.56
+50, 53.,Google Cloud Firestore,9.56,1.19
+51, 49.,MarkLogic ,9.34,-0.09
+52, 50.,Realm ,9.2,-0.09
+53, 52.,Oracle Essbase,8.53,0.12
+54, 56.,Algolia,8.21,0.61
+55, 54.,Kdb+ ,7.95,-0.05
+56, 55.,Sphinx,7.91,0.3
+57,57,Microsoft Azure Search,7.37,0.39
+58, 60.,CockroachDB ,7.07,0.43
+59, 63.,Riak KV,6.72,0.84
+60, 61.,Interbase,6.66,0.38
+61, 58.,Ehcache,6.63,-0.31
+62, 66.,Microsoft Azure Data Explorer ,6.62,0.95
+63, 59.,Prometheus,6.52,-0.12
+64, 69.,Ignite,6.38,0.97
+65, 64.,SingleStore ,6.34,0.6
+66, 68.,Ingres,6.03,0.53
+67, 62.,Jackrabbit,5.98,0.08
+68, 65.,SAP SQL Anywhere,5.77,0.09
+69, 71.,Microsoft Azure Table Storage,5.69,0.43
+70, 67.,Graphite,5.63,0.13
+71, 72.,Aerospike ,5.44,0.31
+72, 70.,OpenEdge,5.14,-0.2
+73, 75.,Derby,5.12,0.46
+74, 78.,ArangoDB ,5.1,0.65
+75, 76.,HyperSQL,5.06,0.46
+76, 73.,SAP IQ,4.99,0.28
+77, 80.,Google Cloud Datastore,4.98,0.56
+78, 74.,Virtuoso ,4.81,0.12
+79,79,Adabas,4.77,0.32
+80, 82.,OrientDB,4.64,0.59
+81, 77.,MaxDB,4.56,0.04
+82, 83.,Oracle NoSQL,4.41,0.38
+83, 81.,"UniData,UniVerse",4.37,0.18
+84,84,TimescaleDB ,4.33,0.37
+85, 91.,Google Cloud Bigtable,4.27,0.63
+86, 89.,IBM Cloudant,4.25,0.54
+87, 90.,ScyllaDB ,3.93,0.23
+88, 85.,Accumulo,3.91,0.02
+89, 86.,SAP Advantage Database Server,3.87,-0.02
+90, 88.,EXASOL,3.86,0.05
+91, 87.,RocksDB,3.84,0.02
+92,92,Apache Druid,3.81,0.36
+93, 95.,Apache Phoenix ,3.57,0.46
+94, 93.,Google Cloud Spanner,3.55,0.24
+95, 94.,RavenDB ,3.44,0.23
+96, 100.,PouchDB,3.34,0.48
+97,97,InterSystems Caché,3.29,0.21
+98, 99.,Oracle Berkeley DB,3.27,0.41
+99, 104.,TiDB ,3.23,0.54
+100, 96.,RethinkDB,3.2,0.1
+101, 107.,IMS,3.08,0.49
+102, 103.,Infinispan,3.08,0.3
+103, 98.,LevelDB,3.05,0.15
+104, 108.,Oracle Coherence,3.01,0.42
+105, 111.,Apache Drill,2.97,0.47
+106, 102.,4D,2.92,0.14
+107, 105.,GraphDB ,2.83,0.18
+108, 106.,LMDB,2.77,0.16
+109, 101.,Apache Jena - TDB,2.73,-0.06
+110, 109.,EDB Postgres ,2.7,0.15
+111, 112.,Percona Server for MySQL,2.67,0.23
+112, 113.,Amazon Neptune,2.6,0.21
+113, 110.,JanusGraph,2.54,0.02
+114,114,RRDtool,2.52,0.24
+115, 116.,CloudKit,2.46,0.28
+116, 115.,Amazon SimpleDB,2.25,0.05
+117, 118.,Trino,2.25,0.16
+118, 117.,Amazon CloudSearch,2.23,0.09
+119,119,Tibero,2.1,0.09
+120, 128.,IBM Db2 warehouse,2.1,0.32
+121, 131.,InterSystems IRIS,2.06,0.34
+122, 125.,TimesTen,2.05,0.2
+123, 120.,TigerGraph ,2.02,0.04
+124, 122.,Stardog ,1.97,0.04
+125, 132.,jBASE,1.97,0.27
+126, 123.,MonetDB ,1.97,0.05
+127, 124.,OpenTSDB,1.95,0.09
+128, 121.,SpatiaLite,1.95,-0.01
+129, 133.,GridGain,1.93,0.25
+130, 126.,mSQL,1.85,0.01
+131, 127.,Datomic,1.8,-0.02
+132, 130.,VoltDB,1.77,0.05
+133, 138.,BaseX,1.75,0.2
+134, 158.,YugabyteDB ,1.74,0.52
+135, 129.,Dgraph ,1.69,-0.05
+136, 142.,Amazon DocumentDB,1.69,0.24
+137, 134.,Db4o,1.68,0.01
+138, 137.,Tarantool  ,1.65,0.09
+139, 136.,Fauna,1.63,0.06
+140, 135.,Geode,1.61,0.02
+141,141,ObjectStore,1.49,0.02
+142, 140.,1010data,1.49,0.01
+143, 157.,OmniSci ,1.47,0.24
+144, 139.,Citus,1.47,-0.01
+145, 150.,HFSQL,1.45,0.14
+146, 143.,GT.M,1.42,-0.01
+147, 148.,Mnesia,1.38,0.06
+148, 164.,Cubrid,1.36,0.22
+149, 146.,FoundationDB,1.36,0.01
+150, 152.,Giraph,1.36,0.07
+151, 145.,Apache Kylin ,1.35,-0.02
+152, 144.,Empress,1.35,-0.03
+153, 160.,LiteDB,1.34,0.17
+154, 149.,SQLBase,1.32,0.01
+155, 151.,GridDB ,1.28,-0.02
+156, 153.,Datameer,1.28,0.02
+157, 147.,Actian NoSQL Database,1.27,-0.05
+158, 155.,Model 204,1.23,-0.01
+159, 154.,AllegroGraph ,1.23,-0.02
+160, 170.,Altibase,1.23,0.17
+161, 156.,Oracle Rdb,1.21,-0.03
+162, 159.,Infobright,1.16,-0.03
+163, 161.,SQL.JS,1.14,-0.01
+164, 162.,Nebula Graph,1.14,0
+165, 163.,NonStop SQL,1.13,-0.01
+166, 165.,DataEase,1.08,-0.02
+167, 166.,D3,1.06,-0.02
+168, 173.,GemStone/S,1.05,0.01
+169, 168.,NuoDB,1.05,-0.03
+170, 174.,GBase,1.04,0.01
+171,171,HAWQ,1.04,-0.01
+172,172,Objectivity/DB,1.04,-0.01
+173, 167.,DolphinDB,1.04,-0.03
+174, 178.,NCache ,1.04,0.11
+175, 169.,IDMS,1.03,-0.04
+176, 186.,Amazon Timestream,0.99,0.11
+177, 179.,EventStoreDB,0.98,0.05
+178, 177.,Sedna,0.97,0.01
+179, 175.,ZODB,0.96,-0.02
+180, 176.,Matisse,0.94,-0.02
+181, 183.,Blazegraph,0.93,0.01
+182, 185.,ObjectBox,0.92,0.02
+183, 180.,CrateDB ,0.9,-0.03
+184, 206.,QuestDB ,0.89,0.18
+185, 181.,FrontBase,0.89,-0.02
+186, 182.,Datacom/DB,0.89,-0.03
+187, 184.,HPE Ezmeral Data Fabric,0.89,-0.02
+188, 197.,Splice Machine,0.87,0.07
+189, 190.,Graph Engine,0.83,-0.02
+190, 187.,Alibaba Cloud MaxCompute,0.83,-0.05
+191, 188.,solidDB,0.83,-0.03
+192,192,Actian Vector,0.83,-0.01
+193, 189.,Kognitio,0.82,-0.04
+194, 191.,DBISAM,0.81,-0.03
+195, 193.,BigchainDB,0.81,-0.02
+196, 194.,TypeDB ,0.8,-0.02
+197, 213.,Dolt,0.8,0.12
+198, 224.,Perst,0.79,0.18
+199,199,GeoMesa,0.78,0.02
+200, 196.,Xapian,0.78,-0.02
+201, 195.,Alibaba Cloud AnalyticDB for MySQL ,0.78,-0.03
+202, 203.,eXist-db,0.75,0.01
+203, 198.,HarperDB ,0.74,-0.03
+204,204,Kinetica ,0.73,0
+205, 202.,OpenBase,0.72,-0.02
+206, 200.,KairosDB,0.71,-0.04
+207, 201.,Yellowbrick,0.71,-0.04
+208, 210.,R:BASE,0.69,0
+209, 218.,Jade,0.69,0.05
+210, 209.,Postgres-XL,0.69,0
+211,211,eXtremeDB ,0.68,0
+212, 205.,ScaleArc,0.68,-0.05
+213, 223.,NexusDB,0.67,0.06
+214, 212.,SciDB,0.67,-0.01
+215, 214.,RDF4J,0.66,0
+216, 207.,Alibaba Cloud ApsaraDB for PolarDB ,0.66,-0.04
+217, 232.,VictoriaMetrics ,0.64,0.1
+218, 208.,WebSphere eXtreme Scale,0.63,-0.07
+219, 220.,Elassandra,0.63,0
+220, 216.,Percona Server for MongoDB,0.63,-0.02
+221, 215.,SQream DB,0.62,-0.04
+222, 219.,AlaSQL,0.61,-0.03
+223, 217.,ObjectDB,0.61,-0.03
+224, 221.,Rockset,0.6,-0.03
+225,225,LokiJS,0.59,-0.01
+226, 222.,Alibaba Cloud AnalyticDB for PostgreSQL,0.58,-0.05
+227, 228.,Alibaba Cloud Log Service ,0.58,0.01
+228, 227.,BoltDB,0.56,-0.01
+229, 226.,Tokyo Tyrant,0.55,-0.02
+230, 231.,Yandex Database,0.55,0.02
+231, 229.,VistaDB,0.55,-0.01
+232, 230.,MapDB,0.54,-0.01
+233, 242.,Raima Database Manager,0.54,0.07
+234,234,Amazon Keyspaces,0.53,0.01
+235, 236.,GigaSpaces InsightEdge ,0.52,0.02
+236, 237.,IBM Db2 Event Store,0.52,0.03
+237, 239.,TDSQL for MySQL,0.52,0.04
+238, 233.,OpenInsight,0.51,-0.02
+239, 261.,TDengine ,0.49,0.13
+240, 243.,InfiniteGraph,0.48,0.02
+241, 246.,Faircom DB ,0.47,0.03
+242, 250.,Northgate Reality,0.46,0.05
+243, 235.,Trafodion,0.46,-0.05
+244, 245.,Sequoiadb,0.46,0.01
+245, 238.,4store,0.45,-0.03
+246, 240.,Rasdaman,0.45,-0.02
+247, 252.,Project Voldemort,0.43,0.03
+248, 244.,Hibari,0.43,-0.02
+249, 241.,Scalaris,0.42,-0.04
+250, 249.,Mimer SQL,0.42,0
+251,251,Alibaba Cloud Table Store,0.41,0.01
+252, 247.,Redland,0.41,-0.02
+253, 248.,ModeShape,0.4,-0.02
+254, 256.,Starcounter,0.37,-0.01
+255, 254.,OpenQM,0.36,-0.03
+256, 275.,Memgraph ,0.36,0.09
+257, 259.,Tajo,0.35,-0.01
+258, 271.,Milvus,0.35,0.07
+259, 262.,Kingbase ,0.35,0
+260, 258.,atoti,0.35,-0.03
+261, 255.,Lovefield,0.35,-0.04
+262, 260.,SearchBlox,0.34,-0.02
+263, 265.,KeyDB,0.34,0.02
+264, 257.,Kyligence Enterprise ,0.33,-0.05
+265, 253.,Brytlyt,0.33,-0.06
+266,266,AnzoGraph DB,0.32,0.02
+267, 263.,PipelineDB,0.32,0
+268, 264.,Alibaba Cloud TSDB,0.32,-0.01
+269, 267.,Tibco ComputeDB,0.3,0
+270, 269.,FlockDB,0.29,0
+271, 290.,Apache IoTDB,0.29,0.1
+272, 268.,Axibase,0.27,-0.03
+273, 274.,Comdb2,0.26,-0.01
+274, 272.,Valentina Server,0.25,-0.02
+275, 270.,Fluree,0.25,-0.04
+276, 273.,EJDB,0.24,-0.03
+277, 278.,M3DB,0.24,0
+278, 276.,TerminusDB,0.24,-0.01
+279, 280.,LeanXcale ,0.24,0
+280, 281.,GeoSpock,0.23,0
+281, 279.,EsgynDB,0.23,-0.01
+282, 284.,Faircom EDGE,0.23,0
+283, 277.,Actian FastObjects,0.23,-0.02
+284, 283.,HyperGraphDB,0.22,-0.01
+285, 282.,Riak TS,0.21,-0.03
+286, 287.,NEventStore,0.21,0.01
+287, 306.,ITTIA,0.19,0.06
+288, 294.,Warp 10,0.19,0.02
+289, 291.,DuckDB,0.19,0.01
+290, 285.,Transbase,0.18,-0.04
+291, 286.,Apache Doris,0.18,-0.04
+292, 289.,ElevateDB,0.17,-0.02
+293, 298.,CubicWeb,0.16,0.01
+294, 297.,XtremeData,0.16,0.01
+295, 296.,Strabon,0.16,0
+296, 295.,TinkerGraph,0.15,-0.01
+297, 305.,Actian PSQL,0.14,0.02
+298, 299.,TransLattice,0.14,0
+299, 292.,Weaviate,0.14,-0.04
+300, 288.,Quasardb ,0.14,-0.05
+301,301,Sparksee,0.13,-0.01
+302, 303.,Mulgara,0.12,-0.01
+303, 300.,STSdb,0.12,-0.02
+304, 302.,Badger,0.11,-0.02
+305, 314.,ArcadeDB,0.11,0.03
+306, 293.,H2GIS,0.11,-0.06
+307,307,HugeGraph,0.09,-0.03
+308, 311.,BigObject,0.09,0
+309, 315.,Heroic,0.09,0.01
+310, 313.,SenseiDB,0.08,0
+311, 304.,Cloudflare Workers KV,0.07,-0.06
+312, 320.,GraphBase,0.07,0.01
+313, 338.,InfinityDB,0.07,0.04
+314, 316.,Kyoto Tycoon,0.06,-0.01
+315, 308.,Blueflood,0.06,-0.05
+316, 318.,Dydra,0.06,0
+317, 323.,AgensGraph,0.06,0.01
+318, 319.,Elliptics,0.06,0
+319, 326.,WakandaDB,0.06,0.01
+320, 321.,DensoDB,0.06,0
+321, 309.,Manticore Search,0.06,-0.05
+322, 317.,BrightstarDB,0.06,-0.01
+323, 325.,Exorbyte,0.05,0
+324, 310.,VelocityDB,0.04,-0.05
+325, 312.,Bangdb ,0.04,-0.04
+326, 331.,JethroData,0.04,0
+327, 329.,WhiteDB,0.04,0
+328, 330.,RaptorDB,0.04,0
+329, 334.,SiteWhere,0.03,0
+330, 336.,FinchDB,0.03,0
+331, 337.,Linter,0.03,0
+332, 333.,LedisDB,0.03,-0.01
+333, 327.,SwayDB,0.03,-0.02
+334, 345.,RDFox,0.03,0.02
+335, 332.,Hawkular Metrics,0.02,-0.01
+336, 342.,HGraphDB,0.02,0.01
+337, 346.,Yaacomo,0.02,0.01
+338, 324.,Machbase ,0.02,-0.03
+339, 353.,SparkleDB,0.02,0.02
+340, 339.,ToroDB,0.02,-0.01
+341, 322.,Immudb,0.01,-0.04
+342, 351.,CortexDB,0.01,0.01
+343, 335.,NosDB,0.01,-0.02
+344, 341.,TerarkDB,0.01,-0.01
+345, 343.,RedStore,0.01,0
+345, 343.,ScaleOut StateServer,0.01,0
+347, 351.,Sadas Engine,0.01,0
+348, 353.,OrigoDB,0.01,0.01
+349, 353.,TomP2P,0,0
+350, 340.,SmallSQL,0,-0.02
+351, 353.,iBoxDB,0,0
+352, 353.,Tkrzw,0,0
+353,353,ActorDB,0,±0.00
+353,353,BergDB,0,±0.00
+353,353,Cachelot.io,0,±0.00
+353,353,CovenantSQL,0,±0.00
+353,353,DaggerDB,0,±0.00
+353,353,Edge Intelligence,0,±0.00
+353,353,EdgelessDB,0,±0.00
+353,353,Eloquera,0,±0.00
+353,,Galaxybase,0,
+353,353,Helium,0,±0.00
+353,353,HyperLevelDB,0,±0.00
+353,353,Hyprcubd,0,±0.00
+353,353,Indica,0,±0.00
+353,353,IRONdb,0,±0.00
+353, 348.,JaguarDB ,0,0
+353, 349.,JasDB,0,0
+353,353,K-DB,0,±0.00
+353,353,Newts,0,±0.00
+353, 350.,NSDb,0,0
+353,353,Resin Cache,0,±0.00
+353,353,Rizhiyi,0,±0.00
+353,353,searchxml,0,±0.00
+353, 347.,Siaqodb,0,-0.01
+353,353,SiriDB,0,±0.00
+353,353,SpaceTime,0,±0.00
+353,353,SWC-DB,0,±0.00
+353,353,Upscaledb,0,±0.00
+353, 328.,XTDB,0,-0.04
+353,353,Yanza,0,±0.00
